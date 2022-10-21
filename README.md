@@ -7,4 +7,4 @@
 ---
 <p align="center"> 👀 I'm a cybersecurity student. I will do a lot of different things there so have fun ! 👀 </p>
 
-<img src="https://tenor.com/bnuB4.gif" width="498" height="412" />
+![line](https://tenor.com/bnuB4.gif)
