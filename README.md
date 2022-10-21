@@ -6,5 +6,3 @@
 
 ---
 <p align="center"> 👀 I'm a cybersecurity student. I will do a lot of different things there so have fun ! 👀 </p>
-
-![](https://github.com/ChilliSama/ChilliSama/blob/main/giphy.gif)
