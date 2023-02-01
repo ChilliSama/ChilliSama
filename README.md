@@ -9,6 +9,6 @@
 <p align="center"> My Skills : </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c,ps,bash,lua,php,regex,mysql,git,kubernetes,docker,linux,grafana" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,powershell,bash,lua,php,regex,mysql,git,kubernetes,docker,linux,grafana" />
   </a>
 </p>
